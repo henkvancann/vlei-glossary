@@ -1,4 +1,4 @@
-[[def: Key Management, key-management]]
+[[def: key-management, Key Management]]
 
 ~ Unless otherwise specified, the term _key-pair_ refers to an asymmetric (public, private) key-pair for digital signatures. The private key is used to generate signatures and the public key is used to validate signatures. 
 

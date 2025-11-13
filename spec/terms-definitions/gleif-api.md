@@ -1,4 +1,4 @@
-[[def: GLEIF API, gleif-api]]
+[[def: gleif-api, GLEIF API]]
 
 ~ API to directly access the complete LEI data pool in real time with rich query capabilities.
 

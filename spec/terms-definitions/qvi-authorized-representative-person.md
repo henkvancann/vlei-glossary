@@ -1,4 +1,4 @@
-[[def: QVI Authorized Representative Person, qvi-authorized-representative-person, QAR Person]]
+[[def: qvi-authorized-representative-person, QVI Authorized Representative Person, QAR Person]]
 
 ~ A person in the role of a QAR.
 

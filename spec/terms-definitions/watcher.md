@@ -1,4 +1,4 @@
-[[def: Watcher, watcher]]
+[[def: watcher, Watcher]]
 
 ~ An entity or component that keeps a copy of a Key Event Receipt Log (KERL) for an identifier but is not designated by the Controller thereof as one of its Witnesses.
 

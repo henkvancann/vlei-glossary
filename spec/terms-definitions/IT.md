@@ -1,4 +1,4 @@
-[[def: IT, it]]
+[[def: it, IT]]
 
 ~ Information Technology, encompassing application software, computer and network systems and suitable equipment for the implementation and support of such systems.
 

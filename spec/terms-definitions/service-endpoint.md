@@ -1,4 +1,4 @@
-[[def: Service Endpoints, Service Endpoint, service-endpoint, service-endpoints]]
+[[def: service-endpoint, Service Endpoints, service-endpoint, service-endpoints]]
 
 ~ Address at where a given identifier can receive KERI messages.
 

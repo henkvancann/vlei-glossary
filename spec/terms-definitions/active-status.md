@@ -1,4 +1,4 @@
-[[def: active-status, Active Status]]
+[[def: active-status]]
 
 ~ A LEI Entity status in the Global LEI System.
 

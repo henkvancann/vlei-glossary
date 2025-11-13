@@ -1,4 +1,4 @@
-[[def: ECR, ECR]]
+[[def: ecr, ECR]]
 
 ~ [[ref: engagement-context-role]]
 

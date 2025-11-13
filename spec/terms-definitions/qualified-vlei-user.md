@@ -1,4 +1,4 @@
-[[def: Qualified vLEI Issuer, QVI]]
+[[def: qvi, Qualified vLEI Issuer]]
 
 ~ The contracting party to the vLEI Issuer Qualification Agreement that has been qualified by GLEIF as a Qualified vLEI Issuer.
 

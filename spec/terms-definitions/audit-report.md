@@ -1,4 +1,4 @@
-[[def: audit-report, Audit Report]]
+[[def: audit-report]]
 
 ~ An audit report provided to the Qualified vLEI Issuer by its internal or
 ~ external auditors or comparable function.

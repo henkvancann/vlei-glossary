@@ -1,4 +1,4 @@
-[[def: candidate-vlei-issuer, Candidate vLEI Issuer]]
+[[def: candidate-vlei-issuer]]
 
 ~ An organization that has applied to become a [[ref: Qualified vLEI Issuer]].
 

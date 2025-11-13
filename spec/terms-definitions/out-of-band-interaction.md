@@ -1,4 +1,4 @@
-[[def: Out of Band Interaction, out-of-band-interaction]]
+[[def: out-of-band-interaction, Out of Band Interaction]]
 
 ~ A session, an example is a continuous web meeting attended by all
 ~ parties on both audio and video.

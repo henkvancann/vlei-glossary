@@ -1,4 +1,4 @@
-[[def: Rotation Event, rotation-event]]
+[[def: rotation-event, Rotation Event]]
 
 ~ An event to rotate the private keys of an AIDs.
 

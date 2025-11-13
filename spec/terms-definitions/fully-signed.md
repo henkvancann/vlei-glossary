@@ -1,4 +1,4 @@
-[[def: Fully Signed, fully-signed]]
+[[def: fully-signed, Fully Signed]]
 
 ~ Meets the threshold of the signed keys.
 

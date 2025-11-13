@@ -1,4 +1,4 @@
-[[def: Distributed Hash Table, distributed-hash-table, DHT]]
+[[def: distributed-hash-table, Distributed Hash Table, DHT]]
 
 ~ In computing, a data structure that implements an associative array abstract data type, a structure that can map keys to values (Wikipedia). Within the vLEI Ecosystem, these tables are used for the discovery of AIDs.
 

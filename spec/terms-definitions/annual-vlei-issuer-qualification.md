@@ -1,4 +1,4 @@
-[[def: annual-vlei-issuer-qualification, Annual vLEI Issuer Qualification]] 
+[[def: annual-vlei-issuer-qualification]] 
 
 ~ A formal annual evaluation process performed by GLEIF to ensure that the Qualified vLEI Issuer continues to meet the requirements of the vLEI Ecosystem Governance Framework.
 

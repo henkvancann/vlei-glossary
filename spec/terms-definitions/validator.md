@@ -1,4 +1,4 @@
-[[def: Validator, validator]] 
+[[def: validator, Validator]] 
 
 ~ An entity or component that determines that a given signed statement associated with an identifier was valid at the time of its issuance.
 

@@ -1,4 +1,4 @@
-[[def: Third Party Services, third-party-services]]
+[[def: third-party-services, Third Party Services]]
 
 ~ IT or operational infrastructure services outsourced by Qualified vLEI Issuers.
 

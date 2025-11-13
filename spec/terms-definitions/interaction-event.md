@@ -1,4 +1,4 @@
-[[def: Interaction Event, interaction-event]]
+[[def: interaction-event, Interaction Event]]
 
 ~ Non-establishment Event ([[xref: keri1, non-establishment-event]]) that anchors external data to the key-state as established by the most recent prior establishment event ([[xref: keri1, establishment-event]]).
 

@@ -1,4 +1,4 @@
-[[def: verifiable LEI Ecosystem, verifiable-lei-ecosystem, vlei-ecosystem, vLEI Ecosystem ]]
+[[def: verifiable-lei-ecosystem, verifiable LEI Ecosystem, vlei-ecosystem, vLEI Ecosystem ]]
 
 ~ Governance Framework Information Trust Policies 
 ~ A document that defines the information security, privacy, availability, confidentiality and processing integrity policies that apply to all vLEI Ecosystem Members.

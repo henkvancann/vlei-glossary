@@ -1,4 +1,4 @@
-[[def: Challenge Message, challenge-message]]
+[[def: challenge-message, Challenge Message]]
 
 ~ A message sent and responded to during the [[ref: Identity Authentication]] session.
 

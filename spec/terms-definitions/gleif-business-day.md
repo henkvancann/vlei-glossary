@@ -1,4 +1,4 @@
-[[def: GLEIF Business Day, gleif-business-day]]
+[[def: gleif-business-day, GLEIF Business Day]]
 
 ~ Business Day in Frankfurt am Main, Germany (Monday – Friday)
 

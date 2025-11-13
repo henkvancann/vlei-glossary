@@ -1,4 +1,4 @@
-[[def: Inception Event, inception-event]]
+[[def: inception-event, Inception Event]]
 
 ~ Initial event used during the creation of an AID.
 

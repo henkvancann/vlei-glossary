@@ -1,4 +1,4 @@
-[[def: Controller, controller]]
+[[def: controller, Controller]]
 
 ~ A controlling entity of an identifier. See the examples Root AID GLEIF Authorized Representative, the Internal Delegated AID GLEIF Authorized Representative and the External Delegated AID GLEIF Authorized Representative in the GLEIF Identifier Governance Framework.
 

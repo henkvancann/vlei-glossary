@@ -1,4 +1,4 @@
-[[def: Key Store, key-store]]
+[[def: key-store, Key Store]]
 
 ~ The on-device storage of public/private key pairs associated with an
 ~ AID.

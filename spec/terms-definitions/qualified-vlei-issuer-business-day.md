@@ -1,4 +1,4 @@
-[[def: Qualified vLEI Issuer Business Day, qualified-vlei-issuer-business-day]]
+[[def: qualified-vlei-issuer-business-day, Qualified vLEI Issuer Business Day]]
 
 ~ Business Day according to local Qualified vLEI Issuer business calendar.
 

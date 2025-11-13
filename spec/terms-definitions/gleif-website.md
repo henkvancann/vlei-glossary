@@ -1,4 +1,4 @@
-[[def: GLEIF Website, gleif-website]] 
+[[def: gleif-website, GLEIF Website]] 
 
 ~ [http://www.gleif.org](http://www.gleif.org)
 

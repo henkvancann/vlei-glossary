@@ -1,4 +1,4 @@
-[[def: Self-addressing Identifier, self-addressing-identifier, SAID]]
+[[def: self-addressing-identifier, Self-addressing Identifier, SAID]]
 
 ~ An identifier that is deterministically generated from and embedded in the content it identifies, making it and its data mutually tamper-evident.
 

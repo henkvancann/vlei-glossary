@@ -1,4 +1,4 @@
-[[def: Key Event Receipt Infrastructure, key-event-receipt-infrastructure]]
+[[def: key-event-receipt-infrastructure, Key Event Receipt Infrastructure]]
 
 ~ Provides the identifier and key management architecture for the vLEI Ecosystem Technical Architecture
 

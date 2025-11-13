@@ -1,4 +1,4 @@
-[[tref: toip1, out-of-band introduction, out-of-band-introduction]]
+[[tref: toip1, out-of-band-introduction, Out-of-band introduction]]
 
 ~ Also "OOBI". 
 

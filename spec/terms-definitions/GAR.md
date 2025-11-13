@@ -1,4 +1,4 @@
-[[def: GAR, GAR]]
+[[def: gar, GAR]]
 
 ~ [[ref: gleif-authorized-representative]]  
 
