@@ -192,7 +192,7 @@
     },
     {
       "term": "authentic-chained-data-container",
-      "definition": "<dd>\n<p>a directed acyclic graph with properties to provide a verifiable chain of <a class=\"term-reference\" href=\"#term:proof-of-authorship\">proof-of-authorship</a>. See the full <a path-0=\"trustoverip.github.io\" path-1=\"tswg-acdc-specification\" path-2=\"\" href=\"https://trustoverip.github.io/tswg-acdc-specification/\">specification</a></p>\n</dd>\n<dd>\n<p>Source: Dr. S.Smith, 2024</p>\n</dd>\n<dd>\n<p>Explained briefly, an ACDC or <a class=\"term-reference\" href=\"#term:authentic-data-container\">authentic-data-container</a> proves digital data consistency and authenticity in one go. An ACDC cryptographically secures commitment to the data contained, and its identifiers are self-addressing, which means they point to themselves and are also contained in the data.</p>\n</dd>\n<dd class=\"last-dd\">\n<p>More in <a href=\"https://weboftrust.github.io/WOT-terms/docs/glossary/authentic-chained-data-container\">extended KERI glossary</a></p>\n</dd>"
+      "definition": "<dd>\n<p>a directed acyclic graph with properties to provide a verifiable chain of <a class=\"term-reference\" href=\"#term:proof-of-authorship\">proof-of-authorship</a>. See the full <a path-0=\"trustoverip.github.io\" path-1=\"tswg-acdc-specification\" path-2=\"\" href=\"https://trustoverip.github.io/kswg-acdc-specification/\">specification</a></p>\n</dd>\n<dd>\n<p>Source: Dr. S.Smith, 2024</p>\n</dd>\n<dd>\n<p>Explained briefly, an ACDC or <a class=\"term-reference\" href=\"#term:authentic-data-container\">authentic-data-container</a> proves digital data consistency and authenticity in one go. An ACDC cryptographically secures commitment to the data contained, and its identifiers are self-addressing, which means they point to themselves and are also contained in the data.</p>\n</dd>\n<dd class=\"last-dd\">\n<p>More in <a href=\"https://weboftrust.github.io/WOT-terms/docs/glossary/authentic-chained-data-container\">extended KERI glossary</a></p>\n</dd>"
     },
     {
       "term": "authentic-data-container",
@@ -208,7 +208,7 @@
     },
     {
       "term": "backer",
-      "definition": "<dd>\n<p>an alternative to a traditional KERI based <a path-0=\"trustoverip.github.io\" path-1=\"tswg-keri-specification\" path-2=\"#term:witness\" href=\"https://trustoverip.github.io/tswg-keri-specification/#term:witness\">Witness</a> commonly using Distributed Ledger Technology (DLT) to store the <a path-0=\"trustoverip.github.io\" path-1=\"tswg-keri-specification\" path-2=\"#term:kel\" href=\"https://trustoverip.github.io/tswg-keri-specification/#term:kel\">KEL</a> for an identifier.</p>\n</dd>\n<dd>\n<p>Source: Dr. S.Smith, 2024</p>\n</dd>\n<dd class=\"last-dd\">\n<p>More in <a href=\"https://weboftrust.github.io/WOT-terms/docs/glossary/backer\">extended KERI glossary</a></p>\n</dd>"
+      "definition": "<dd>\n<p>an alternative to a traditional KERI based <a path-0=\"trustoverip.github.io\" path-1=\"tswg-keri-specification\" path-2=\"#term:witness\" href=\"https://trustoverip.github.io/kswg-keri-specification/#term:witness\">Witness</a> commonly using Distributed Ledger Technology (DLT) to store the <a path-0=\"trustoverip.github.io\" path-1=\"tswg-keri-specification\" path-2=\"#term:kel\" href=\"https://trustoverip.github.io/kswg-keri-specification/#term:kel\">KEL</a> for an identifier.</p>\n</dd>\n<dd>\n<p>Source: Dr. S.Smith, 2024</p>\n</dd>\n<dd class=\"last-dd\">\n<p>More in <a href=\"https://weboftrust.github.io/WOT-terms/docs/glossary/backer\">extended KERI glossary</a></p>\n</dd>"
     },
     {
       "term": "base-media-type",
@@ -316,7 +316,7 @@
     },
     {
       "term": "current-threshold",
-      "definition": "<dd>\n<p>represents the number or fractional weights of signatures from the given set of current keys required to be attached to a <a path-0=\"trustoverip.github.io\" path-1=\"tswg-keri-specification\" path-2=\"#term:message\" href=\"https://trustoverip.github.io/tswg-keri-specification/#term:message\">Message</a> for the <a path-0=\"trustoverip.github.io\" path-1=\"tswg-keri-specification\" path-2=\"#term:message\" href=\"https://trustoverip.github.io/tswg-keri-specification/#term:message\">Message</a> to be considered fully signed.</p>\n</dd>\n<dd>\n<p>Source: Dr. S.Smith, 2024</p>\n</dd>\n<dd class=\"last-dd\">\n<p>More in <a href=\"https://weboftrust.github.io/WOT-terms/docs/glossary/current-threshold\">extended KERI glossary</a></p>\n</dd>"
+      "definition": "<dd>\n<p>represents the number or fractional weights of signatures from the given set of current keys required to be attached to a <a path-0=\"trustoverip.github.io\" path-1=\"tswg-keri-specification\" path-2=\"#term:message\" href=\"https://trustoverip.github.io/kswg-keri-specification/#term:message\">Message</a> for the <a path-0=\"trustoverip.github.io\" path-1=\"tswg-keri-specification\" path-2=\"#term:message\" href=\"https://trustoverip.github.io/kswg-keri-specification/#term:message\">Message</a> to be considered fully signed.</p>\n</dd>\n<dd>\n<p>Source: Dr. S.Smith, 2024</p>\n</dd>\n<dd class=\"last-dd\">\n<p>More in <a href=\"https://weboftrust.github.io/WOT-terms/docs/glossary/current-threshold\">extended KERI glossary</a></p>\n</dd>"
     },
     {
       "term": "custodial-agent",
@@ -668,7 +668,7 @@
     },
     {
       "term": "next-threshold",
-      "definition": "<dd>\n<p>represents the number or fractional weights of signatures from the given set of next keys required to be attached to a <a path-0=\"trustoverip.github.io\" path-1=\"tswg-keri-specification\" path-2=\"#term:message\" href=\"https://trustoverip.github.io/tswg-keri-specification/#term:message\">Message</a> for the <a path-0=\"trustoverip.github.io\" path-1=\"tswg-keri-specification\" path-2=\"#term:message\" href=\"https://trustoverip.github.io/tswg-keri-specification/#term:message\">Message</a> to be considered fully signed.</p>\n</dd>\n<dd class=\"last-dd\">\n<p>More in <a href=\"https://weboftrust.github.io/WOT-terms/docs/glossary/next-threshold\">extended KERI glossary</a></p>\n</dd>"
+      "definition": "<dd>\n<p>represents the number or fractional weights of signatures from the given set of next keys required to be attached to a <a path-0=\"trustoverip.github.io\" path-1=\"tswg-keri-specification\" path-2=\"#term:message\" href=\"https://trustoverip.github.io/kswg-keri-specification/#term:message\">Message</a> for the <a path-0=\"trustoverip.github.io\" path-1=\"tswg-keri-specification\" path-2=\"#term:message\" href=\"https://trustoverip.github.io/kswg-keri-specification/#term:message\">Message</a> to be considered fully signed.</p>\n</dd>\n<dd class=\"last-dd\">\n<p>More in <a href=\"https://weboftrust.github.io/WOT-terms/docs/glossary/next-threshold\">extended KERI glossary</a></p>\n</dd>"
     },
     {
       "term": "non-establishment-event",

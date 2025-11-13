@@ -316,7 +316,7 @@
     },
     {
       "term": "decentralized-key-management-infrastructure",
-      "definition": "<dd>\n<p>a key management infrastructure that does not rely on a single entity for the integrity and security of the system as a whole. Trust in a DKMI is decentralized through the use of technologies that make it possible for geographically and politically disparate entities to reach an agreement on the key state of an identifier <a path-0=\"trustoverip.github.io\" path-1=\"tswg-keri-specification\" path-2=\"#term:dpki\" href=\"https://trustoverip.github.io/tswg-keri-specification/#term:dpki\">DPKI</a>.</p>\n</dd>\n<dd>\n<p>Source: Dr. S.Smith, 2024</p>\n</dd>\n<dd class=\"last-dd\">\n<p>More in <a href=\"https://weboftrust.github.io/WOT-terms/docs/glossary/decentralized-key-management-infrastructure\">extended KERI glossary</a></p>\n</dd>"
+      "definition": "<dd>\n<p>a key management infrastructure that does not rely on a single entity for the integrity and security of the system as a whole. Trust in a DKMI is decentralized through the use of technologies that make it possible for geographically and politically disparate entities to reach an agreement on the key state of an identifier <a path-0=\"trustoverip.github.io\" path-1=\"tswg-keri-specification\" path-2=\"#term:dpki\" href=\"https://trustoverip.github.io/kswg-keri-specification/#term:dpki\">DPKI</a>.</p>\n</dd>\n<dd>\n<p>Source: Dr. S.Smith, 2024</p>\n</dd>\n<dd class=\"last-dd\">\n<p>More in <a href=\"https://weboftrust.github.io/WOT-terms/docs/glossary/decentralized-key-management-infrastructure\">extended KERI glossary</a></p>\n</dd>"
     },
     {
       "term": "digest",
@@ -804,7 +804,7 @@
     },
     {
       "term": "tritet",
-      "definition": "<dd>\n<p>3 bits. See <a path-0=\"trustoverip.github.io\" path-1=\"tswg-cesr-specification\" path-2=\"#performant-resynchronization-with-unique-start-bits\" href=\"https://trustoverip.github.io/tswg-cesr-specification/#performant-resynchronization-with-unique-start-bits\">Performant resynchronization with unique start bits</a>.</p>\n</dd>\n<dd>\n<p>Source: Dr. S. Smith</p>\n</dd>\n<dd class=\"last-dd\">\n<p>More in <a href=\"https://weboftrust.github.io/WOT-terms/docs/glossary/tritet\">extended KERI glossary</a></p>\n</dd>"
+      "definition": "<dd>\n<p>3 bits. See <a path-0=\"trustoverip.github.io\" path-1=\"tswg-cesr-specification\" path-2=\"#performant-resynchronization-with-unique-start-bits\" href=\"https://trustoverip.github.io/kswg-cesr-specification/#performant-resynchronization-with-unique-start-bits\">Performant resynchronization with unique start bits</a>.</p>\n</dd>\n<dd>\n<p>Source: Dr. S. Smith</p>\n</dd>\n<dd class=\"last-dd\">\n<p>More in <a href=\"https://weboftrust.github.io/WOT-terms/docs/glossary/tritet\">extended KERI glossary</a></p>\n</dd>"
     },
     {
       "term": "trusted-execution-environment",
