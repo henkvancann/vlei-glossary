@@ -1,6 +1,6 @@
-[[def: authorized-vlei-representative, Authorized Vlei Representative]]
+[[def: authorized-vlei-representative, Authorized Vlei Representative, AVR]]
 
-~ Also 'AVR'. This a representative of a Legal Entity that are authorized by the [[ref: DAR]] of a Legal Entity to request issuance and revocation of:
+~ This a representative of a Legal Entity that are authorized by the [[ref: DAR]] of a Legal Entity to request issuance and revocation of:
 ~ - vLEI Legal Entity Credentials
 ~ - Legal Entity Official Organizational Role vLEI Credentials ([[ref: official-organizational-role]] vLEI Credentials)
 ~ - Legal Entity Engagement Context Role vLEI Credentials ([[ref: engagement-context-role]] vLEI Credentials).

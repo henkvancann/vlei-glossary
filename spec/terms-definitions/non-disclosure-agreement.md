@@ -1,4 +1,4 @@
-[[tref: toip2, Non-Disclosure Agreement]]
+[[tref: toip2, non-disclosure-agreement, Non-Disclosure Agreement, NDA]]
 
 ~ An agreement that outlines requirements for handling confidential information.
 

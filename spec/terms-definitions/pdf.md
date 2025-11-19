@@ -1,3 +1,2 @@
-[[tref: toip2, pdf, pdf-document]]
+[[tref: toip2, pdf, PDF, pdf-document]]
 
-~ - - -
