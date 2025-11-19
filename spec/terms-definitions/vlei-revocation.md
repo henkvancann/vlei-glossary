@@ -1,4 +1,4 @@
-[[def: vLEI Revocation]]
+[[def: vLEI Revocation, Vlei Revocation]]
 
 ~ The process of revoking a vLEI Credential.
 

@@ -1,4 +1,4 @@
-[[def: vLEI Issuer Qualification Program Manual]]
+[[def: vLEI Issuer Qualification Program Manual, Vlei Issuer Qualification Program Manual]]
 
 ~ The document that describes the Qualification program (Appendix 2 to the vLEI Issuer Qualification Agreement).
 

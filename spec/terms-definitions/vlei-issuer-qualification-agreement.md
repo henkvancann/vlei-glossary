@@ -1,4 +1,4 @@
-[[def: vLEI Issuer Qualification Agreement]]
+[[def: vLEI Issuer Qualification Agreement, Vlei Issuer Qualification Agreement]]
 
 ~ An agreement between GLEIF and an organization that has been qualified by GLEIF to operate as a Qualified vLEI Issuer. 
 

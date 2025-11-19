@@ -1,4 +1,4 @@
-[[def: source, Sources, sources ]]
+[[def: source, Source, Sources, sources]]
 
 ~ The sources or edges section of a vLEI credential cause the vLEI credential to become a fragment of a distributed property graph. The sources chain a vLEI credential to other vLEI credential to which this credential is dependent.
 

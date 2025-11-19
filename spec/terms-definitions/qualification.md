@@ -1,4 +1,4 @@
-[[def: Qualification]] 
+[[def: Qualification, Qualification]] 
 
 ~ The formal evaluation process performed by GLEIF to ensure that an organization which has applied for Qualification (a Candidate [[ref: vLEI Issuer]]) meets the requirements of the vLEI Ecosystem Governance Framework.
 

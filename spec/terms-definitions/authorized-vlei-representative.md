@@ -1,4 +1,4 @@
-[[def: authorized-vlei-representative]]
+[[def: authorized-vlei-representative, Authorized Vlei Representative]]
 
 ~ Also 'AVR'. This a representative of a Legal Entity that are authorized by the [[ref: DAR]] of a Legal Entity to request issuance and revocation of:
 ~ - vLEI Legal Entity Credentials
