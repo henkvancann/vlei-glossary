@@ -1,4 +1,4 @@
-[[def: vLEI Issuance, Vlei Issuance]]
+[[def: vLEI Issuance, vLEI Issuance]]
 
 ~ The process of issuing a vLEI Credential.
 

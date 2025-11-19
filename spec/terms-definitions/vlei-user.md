@@ -1,4 +1,4 @@
-[[def: vLEI User, Vlei User]]
+[[def: vLEI User, vLEI User]]
 
 ~ Any user of vLEI credentials in any applicable use case.
 
