@@ -1,2 +1,0 @@
-a top-level field map within an ACDC that provides a legal language as a [Ricardian Contract](https://en.wikipedia.org/wiki/Ricardian_contract), which is both human and machine-readable and referenceable by a cryptographic digest.  
-Source: Dr. S. Smith
