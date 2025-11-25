@@ -1,3 +1,3 @@
-[[def: leis, Leis, LEI]]
+[[def: lei, Legal Entity Identifier(s) (LEIs), LEI, Leis]]
 
-~ Legal Entity Identifier(s)
+~ Identifiers assigned to [[ref: Legal Entities]]

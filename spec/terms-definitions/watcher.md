@@ -1,7 +1,6 @@
 [[def: watcher, Watcher]]
 
-~ An entity or component that keeps a copy of a Key Event Receipt Log (KERL) for an identifier but is not designated by the Controller thereof as one of its Witnesses.
+~ an _entity_ or _component_ that keeps a copy of a [[ref: kerl]] for an identifier but that is not designated by the _controller_ of the identifier as one of its witnesses. See annex [[ref: watcher]].  
+~ Source: Dr. S.Smith
 
-~ [Source](https://www.gleif.org/vlei/introducing-the-vlei-ecosystem-governance-framework/2023-12-15_vlei-egf-v2.0-glossary_v1.3_final.pdf) vLEI Ecosystem Governance Framework Glossary
-
-~ See also: [[xref: keri1, watcher, Watcher]]
+~ More in <a href="https://weboftrust.github.io/WOT-terms/docs/glossary/watcher">extended KERI glossary</a>

@@ -1,3 +1,3 @@
-[[def: GLEIF, Gleif]]
+[[def: GLEIF, Global Legal Entity Identifier Foundation (GLEIF)]]
 
-~ Global Legal Entity Identifier Foundation
+~ {TBW go to the website and get the definition}
