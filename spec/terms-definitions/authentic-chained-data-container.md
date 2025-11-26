@@ -1,3 +1,3 @@
-[[tref: authentic-chained-data-container, Authentic Chained Data Container, ACDC]]
+[[tref: keri1, authentic-chained-data-container, Authentic Chained Data Container, ACDC]]
 
 ~ vLEI are ACDCs.
